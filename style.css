@@ -1,0 +1,50 @@
+.orange-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.container {
+  margin-bottom: 80px;
+}
+.cat1 {
+  background-color: orange;
+}
+.cat2 {
+  background-color: orchid;
+}
+.cat3 {
+  background-color: blue;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.categories h1 {
+  color: white;
+}
+.categories img {
+  width: 100px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+  text-align: center;
+}
+.something {
+  height: 400px;
+}
+footer {
+  text-align: center;
+}
